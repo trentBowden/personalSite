@@ -174,9 +174,10 @@ ul {
 }
 
 .large-tri-orange h1 {
+    padding: 5px;
     color: whitesmoke;
     font-weight: bold;
-    font-size: 5em;
+    font-size: 8vh;
 }
 .large-tri-orange p, .large-tri-orange li {
     color: floralwhite;
@@ -198,7 +199,7 @@ ul {
 
 .light-bg h1 {
     font-weight: bold;
-    font-size: 3em;
+    font-size: 6vh;
 }
 
 .light-bg h2, .light-bg p, .light-bg h1 {
