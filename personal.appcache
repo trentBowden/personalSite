@@ -1,11 +1,14 @@
 CACHE MANIFEST
-#pages
-index.html
-projects.html
+
+CACHE:
 #style and js
 main.css
 scripts.js
-#images
-images/trent.jpg
-#files
 TrentBowden_Resume.pdf
+
+NETWORK:
+*
+
+FALLBACK:
+/index.html /index.html
+/projects.html /projects.html
