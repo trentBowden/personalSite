@@ -21,6 +21,11 @@ ul {
     list-style-type: none;
 }
 
+a, a:hover, a:visited, a:active {
+    text-decoration: none;
+    color: papayawhip;
+}
+
 /*
     Responsive Navigation bar
 */
